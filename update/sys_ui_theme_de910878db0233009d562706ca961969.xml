@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_theme">
+    <sys_ui_theme action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_theme display_value="La Jolla">c92c1ee153002300dda1ddeeff7b125b</base_theme>
+        <css>/* Header Colors */&#13;
+/* Search text color */&#13;
+$search-text-color: #111&#13;
+/* Topbar background color*/&#13;
+$navpage-header-bg: #222&#13;
+/* Topbar text color */&#13;
+$navpage-header-color: #fff&#13;
+/* Bottom border color on topbar */&#13;
+$navpage-header-divider-color: #777&#13;
+&#13;
+/* Left nav and navigation toolbar background color */&#13;
+/* Navigator hover color */&#13;
+$nav-highlight-main: #000&#13;
+/* Background for expanded navigation items */&#13;
+$subnav-background-color: #2F2F2F&#13;
+/* Backgorund for navigator (left side only). */&#13;
+$navpage-nav-bg: #fff&#13;
+/* Background for Favorites list, history list, and Connect list background. */&#13;
+$navpage-nav-bg-sub: #fafafa&#13;
+/* Text color in main navigation */&#13;
+$navpage-nav-color-sub: #fff&#13;
+/* Text color when hovering over items in main nav */&#13;
+$navpage-nav-mod-text-hover: #fff&#13;
+/* Divider color in Navigator */&#13;
+$nav-hr-color: #f44842&#13;
+&#13;
+/* Navigator tabs */&#13;
+/* Active nav item underneath search */&#13;
+$nav-highlight-bar-active: #999&#13;
+/* Inactive nav items underneath search */&#13;
+$nav-highlight-bar-inactive: #EAEAEA&#13;
+/* Background for currently selected navigation item underneath search */&#13;
+$navpage-nav-selected-bg: #2F2F2F&#13;
+/* Color of icon for currently active nav item. */&#13;
+$navpage-nav-selected-color: #fff&#13;
+/* Color of icons for non inactive nav items.*/&#13;
+$navpage-nav-unselected-color: #000&#13;
+&#13;
+/* Navigator Application text */&#13;
+/* Color for latest connect messages in right bar. */&#13;
+$connect-latest-message: #2f2f2f&#13;
+/* Timestamp header backgrounds in History tab*/&#13;
+$nav-timeago-header-color: #111&#13;
+/* Core content text color */&#13;
+$navpage-nav-app-text: #111&#13;
+/* Core content text color hover*/&#13;
+$navpage-nav-app-text-hover: #fff&#13;
+&#13;
+/* Color of outline for search */&#13;
+$navpage-nav-border: #111 &#13;
+/* Default button/icon colors */&#13;
+$navpage-button-color:  #2F2F2F&#13;
+/* Hover color for ^^^ */&#13;
+$navpage-button-color-hover: #888888</css>
+        <device>browser</device>
+        <name>Testing</name>
+        <sys_class_name>sys_ui_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 08:57:06</sys_created_on>
+        <sys_id>de910878db0233009d562706ca961969</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Testing</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_theme_de910878db0233009d562706ca961969</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 09:00:13</sys_updated_on>
+    </sys_ui_theme>
+</record_update>
